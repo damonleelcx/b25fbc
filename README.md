@@ -21,8 +21,8 @@ A Next.js application for rendering form-based workflows with prefill configurat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/journey-builder.git
-cd journey-builder
+git clone https://github.com/damonleelcx/b25fbc.git
+cd b25fbc
 ```
 
 2. Install dependencies:
